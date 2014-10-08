@@ -25,19 +25,19 @@
 
 ##General Description
 
-This repo contains a very simple web app for address searching using Google's 
+This repo contains a simple web app for address searching using Google's 
 [Gmaps API](https://developers.google.com/maps/), written with 
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) 
 &amp; [jQuery](http://jquery.com).
 
-Basically, the user can enter an address anywhere in the world and the app 
+The user can enter an address anywhere in the world and the app 
 generates a map of that area with a marker designating the location of 
 the specified address.
 
 If the address can't be found, the app gives the relevant notice.
 
-If a partial address is give, the app returns the first result from 
-[Gmaps' API](https://developers.google.com/maps/).
+The app also includes an autocomplete function which dynamically gives 
+optional matches for the entered address.
 
 
 ##How to Run the App Locally
@@ -66,6 +66,8 @@ The app makes use of the following resouces:
 * [gmaps.js](http://hpneo.github.io/gmaps/)
 * [Bootstrap](http://getbootstrap.com)
 * [Google Fonts](http://www.google.com/fonts)
+* [rjshade: gmaps-autocomplete](https://github.com/rjshade/gmaps-autocomplete)
+
 
 ##License
 
