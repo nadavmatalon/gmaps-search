@@ -4,6 +4,7 @@
 
 * [Screenshot](#screenshot)
 * [General Description](#general-description)
+* [See it Live on Github](#see-it-live-on-github)
 * [How to Run the App Locally](#how-to-run-the-app-locally)
 * [Browsers](#browsers)
 * [Credit](#credit)
@@ -38,6 +39,13 @@ If the address can't be found, the app gives the relevant notice.
 
 The app also includes an autocomplete function which dynamically gives 
 optional matches for the entered address.
+
+
+##See it Live on Github
+			
+A live version of the app can be found at:
+
+[Gmaps Search on Github.io](http://nadavmatalon.github.io/gmaps-search/)
 
 
 ##How to Run the App Locally
