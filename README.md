@@ -74,6 +74,8 @@ The app makes use of the following resouces:
 * [gmaps.js](http://hpneo.github.io/gmaps/)
 * [Bootstrap](http://getbootstrap.com)
 * [Google Fonts](http://www.google.com/fonts)
+
+The code in this repo was very helpful in understaing the autocomplete function:
 * [rjshade: gmaps-autocomplete](https://github.com/rjshade/gmaps-autocomplete)
 
 
