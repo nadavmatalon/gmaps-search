@@ -41,6 +41,12 @@ $(document).ready(function() {
 		});
 	});
 
+	$("#address").bind('keydown', function(event) {
+		if(event.keyCode == 13) {
+			$('#search').trigger('click');
+		};
+	});
+
 	$('#container').css('transition', 'opacity, 0.5s');
 	$('#container').css('opacity', '1');
 });
