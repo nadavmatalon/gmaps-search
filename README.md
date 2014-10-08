@@ -17,7 +17,7 @@
 	<tr>
 		<td align="center" width="450px" height="450px">
 			<a href="https://raw.githubusercontent.com/nadavmatalon/gmaps-search/master/images/gmaps-search.png">
-				<img src="/images/gmaps-search.png" />
+				<img src="https://raw.githubusercontent.com/nadavmatalon/gmaps-search/master/images/gmaps-search.png">
 			</a>
 		</td>
 	</tr>
