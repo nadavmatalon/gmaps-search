@@ -4,6 +4,7 @@
 
 * [Screenshot](#screenshot)
 * [General Description](#general-description)
+* [See it Live on Github](#see-it-live-on-github)
 * [How to Run the App Locally](#how-to-run-the-app-locally)
 * [Browsers](#browsers)
 * [Credit](#credit)
@@ -16,7 +17,7 @@
 	<tr>
 		<td align="center" width="450px" height="450px">
 			<a href="https://raw.githubusercontent.com/nadavmatalon/gmaps-search/master/images/gmaps-search.png">
-				<img src="https://raw.githubusercontent.com/nadavmatalon/gmaps-search/master/images/gmaps-search.png">
+				<img src="/images/gmaps-search.png" />
 			</a>
 		</td>
 	</tr>
@@ -38,6 +39,13 @@ If the address can't be found, the app gives the relevant notice.
 
 The app also includes an autocomplete function which dynamically gives 
 optional matches for the entered address.
+
+
+##See it Live on Github
+			
+A live version of the app can be found at:
+
+[Gmaps Search on Github.io](http://nadavmatalon.github.io/gmaps-search/)
 
 
 ##How to Run the App Locally
@@ -66,6 +74,8 @@ The app makes use of the following resouces:
 * [gmaps.js](http://hpneo.github.io/gmaps/)
 * [Bootstrap](http://getbootstrap.com)
 * [Google Fonts](http://www.google.com/fonts)
+
+The code in this repo was very helpful in understaing the autocomplete function:
 * [rjshade: gmaps-autocomplete](https://github.com/rjshade/gmaps-autocomplete)
 
 
